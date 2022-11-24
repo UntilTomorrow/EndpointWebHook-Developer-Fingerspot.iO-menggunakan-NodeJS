@@ -14,6 +14,10 @@ Endpoint data menggunakan Node JS + MySQL dengan integrasi menggunakan produk SD
   `cloud_id` varchar(50) COLLATE utf8mb4_general_ci DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;</code>
 
+* Masuk file Endpoint scan.js , silakan sesuaikan untuk konfigurasi koneksi ke database Anda 
+
+![image](https://user-images.githubusercontent.com/113245217/203730211-a05660d1-64e6-4318-9cb4-b56a17dcc25b.png)
+
 * Jalankan project <code class="language-sh" data-lang="sh"> Node scan </code>
 
 * Pastikan pada akun developer Fingerspot.IO Anda untuk endpoint sudah benar dirujukan ke file scan.js , perhatikan tampilan dibawah ini : 
