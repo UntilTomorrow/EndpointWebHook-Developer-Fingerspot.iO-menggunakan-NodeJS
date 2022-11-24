@@ -24,5 +24,8 @@ Endpoint data menggunakan Node JS + MySQL dengan integrasi menggunakan produk SD
 
 ![image](https://user-images.githubusercontent.com/113245217/203728704-ddad34ab-76b9-4986-aa5b-90147ea9cb26.png)
 
-* Setiap Absensi akan realtime langsung ke database Mysql Anda yang sudah di Create tadi.
+* Setiap Absensi akan realtime langsung ke database Mysql Anda yang sudah di Create tadi, seperti tampilan dibawah ini.
+
+![image](https://user-images.githubusercontent.com/113245217/203730400-71e9e1d7-4b82-4b9c-ba22-9a42e6f389b0.png)
+
 
